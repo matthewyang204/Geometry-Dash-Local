@@ -1,5 +1,5 @@
 # Geometry Dash Local
-A local version of Geometry Dash v1.5.
+A local version of Geometry Dash.
 
 Requirements:
 
