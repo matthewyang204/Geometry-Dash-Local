@@ -33,3 +33,7 @@ ChromeOS:
 3. Open it.
 
 To update: There are no settings to lose, so just follow the installation instructions above to install a newer release.
+
+---------------
+Citing sources:
+v1.5 is just a local version identical to griffpatch's Geometry Dash v1.5, which can be found here: https://scratch.mit.edu/projects/105500895
