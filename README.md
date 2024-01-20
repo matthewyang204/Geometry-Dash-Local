@@ -36,4 +36,4 @@ To update: There are no settings to lose, so just follow the installation instru
 
 ---------------
 Citing sources:
-v1.5 is just a local version identical to griffpatch's Geometry Dash v1.5, which can be found here: https://scratch.mit.edu/projects/105500895
+This repository just contains local versions of online Geometry Dash games found online on Scratch's website. v1.5 is just a local version identical to griffpatch's Geometry Dash v1.5, which can be found here: https://scratch.mit.edu/projects/105500895
